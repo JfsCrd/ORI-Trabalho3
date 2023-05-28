@@ -11,4 +11,4 @@ Dados vários arquivos de documento em formato PDF contendo texto. Para cada arq
 ## Importações Necessárias
 
 ```pip install nltk```
-Para pré-processamento textual
+Nenhuma importação de biblioteca externa necessária
